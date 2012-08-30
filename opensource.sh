@@ -1,4 +1,4 @@
-! /bin/bash
+#!/bin/bash    
 
 #installing Gnome3 
 #adding repo
